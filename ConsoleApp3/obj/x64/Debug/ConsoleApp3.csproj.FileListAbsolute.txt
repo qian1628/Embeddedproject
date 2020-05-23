@@ -1,0 +1,5 @@
+C:\Users\vsdiagtester\source\repos\ConsoleApp3\ConsoleApp3\bin\x64\Debug\ConsoleApp3.exe.config
+C:\Users\vsdiagtester\source\repos\ConsoleApp3\ConsoleApp3\bin\x64\Debug\ConsoleApp3.exe
+C:\Users\vsdiagtester\source\repos\ConsoleApp3\ConsoleApp3\obj\x64\Debug\ConsoleApp3.csprojAssemblyReference.cache
+C:\Users\vsdiagtester\source\repos\ConsoleApp3\ConsoleApp3\obj\x64\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\vsdiagtester\source\repos\ConsoleApp3\ConsoleApp3\obj\x64\Debug\ConsoleApp3.exe
